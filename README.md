@@ -9,6 +9,7 @@ aqui se ven mas cosas:
 
 * Todos los comandos de git
 * el flujo de trabajo en github
+* cherry-pick, suena interesante
 
 y un recordatorio: **algo en ngrilla**. se debe ser muy cudadoso con eso.
 ahora agrego un [link](https://www.youtube.com/watch?v=j2Xcv0k-RwQ)
