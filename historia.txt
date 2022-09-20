@@ -9,6 +9,7 @@ im lernign kubernetes
 desde aqui se edita mucho mejor
 
 Experimento 1
+Experimento 2
 
 Master 1
 
